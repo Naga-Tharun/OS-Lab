@@ -1,0 +1,153 @@
+# Jobs (1 - 1024) with Best Fit
+
+average fragmentation: 28.0796%
+average hole size: 268.844
+average holes examined to satisfy partition: 4.29152
+highest fragmentation: 95.8984%
+lowest fragmentation: 0.0976562%
+average number of jobs: 1.624
+highest number of jobs: 5
+lowest number of jobs: 1
+average job size: 443.776
+average number of holes: 1.132
+highest holes recorded: 3
+lowest holes recorded: 0
+largest number of partitions created in a row without evictions: 6
+largest number of evictions to satisf a single partition request: 5
+
+# Jobs (1 - 1024) with Worst Fit
+
+average fragmentation: 29.4057%
+average hole size: 283.569
+average holes examined to satisfy partition: 4.33665
+highest fragmentation: 95.7031%
+lowest fragmentation: 0.0976562%
+average number of jobs: 1.624
+highest number of jobs: 6
+lowest number of jobs: 1
+average job size: 438.227
+average number of holes: 1.105
+highest holes recorded: 3
+lowest holes recorded: 0
+largest number of partitions created in a row without evictions: 6
+largest number of evictions to satisf a single partition request: 6
+
+# Jobs (1 - 1024) with First Fit
+
+average fragmentation: 28.6685%
+average hole size: 275.813
+average holes examined to satisfy partition: 3.76555
+highest fragmentation: 96.6797%
+lowest fragmentation: 0.0976562%
+average number of jobs: 1.568
+highest number of jobs: 5
+lowest number of jobs: 1
+average job size: 458.64
+average number of holes: 1.109
+highest holes recorded: 3
+lowest holes recorded: 0
+largest number of partitions created in a row without evictions: 5
+largest number of evictions to satisf a single partition request: 5
+
+# Jobs (1 - 100) with Best Fit
+
+average fragmentation: 1.99375%
+average hole size: 21.9901
+average holes examined to satisfy partition: 2.31419
+highest fragmentation: 17.2852%
+lowest fragmentation: 0.0976562%
+average number of jobs: 16.776
+highest number of jobs: 27
+lowest number of jobs: 9
+average job size: 50.9419
+average number of holes: 7.75
+highest holes recorded: 12
+lowest holes recorded: 4
+largest number of partitions created in a row without evictions: 23
+largest number of evictions to satisf a single partition request: 11
+
+# Jobs (1 - 100) with Worst Fit
+
+average fragmentation: 2.85615%
+average hole size: 26.2976
+average holes examined to satisfy partition: 2.25693
+highest fragmentation: 14.8438%
+lowest fragmentation: 0.0976562%
+average number of jobs: 17.082
+highest number of jobs: 28
+lowest number of jobs: 9
+average job size: 47.7887
+average number of holes: 7.936
+highest holes recorded: 12
+lowest holes recorded: 4
+largest number of partitions created in a row without evictions: 20
+largest number of evictions to satisf a single partition request: 15
+
+# Jobs (1 - 100) with First Fit
+
+average fragmentation: 2.31318%
+average hole size: 22.6805
+average holes examined to satisfy partition: 1.59373
+highest fragmentation: 13.3789%
+lowest fragmentation: 0.0976562%
+average number of jobs: 16.816
+highest number of jobs: 25
+lowest number of jobs: 10
+average job size: 49.847
+average number of holes: 8.236
+highest holes recorded: 13
+lowest holes recorded: 4
+largest number of partitions created in a row without evictions: 19
+largest number of evictions to satisf a single partition request: 13
+
+# Jobs (500 - 1000) with Best Fit
+
+average fragmentation: 25.9578%
+average hole size: 265.542
+average holes examined to satisfy partition: 4
+highest fragmentation: 51.1719%
+lowest fragmentation: 0.585938%
+average number of jobs: 1.003
+highest number of jobs: 2
+lowest number of jobs: 1
+average job size: 756.945
+average number of holes: 1.001
+highest holes recorded: 1
+lowest holes recorded: 1
+largest number of partitions created in a row without evictions: 2
+largest number of evictions to satisf a single partition request: 2
+
+# Jobs (500 - 1000) with Worst Fit
+
+average fragmentation: 27.2389%
+average hole size: 278.647
+average holes examined to satisfy partition: 3.996
+highest fragmentation: 51.1719%
+lowest fragmentation: 2.34375%
+average number of jobs: 1.001
+highest number of jobs: 1
+lowest number of jobs: 1
+average job size: 745.353
+average number of holes: 1.001
+highest holes recorded: 1
+lowest holes recorded: 1
+largest number of partitions created in a row without evictions: 2
+largest number of evictions to satisf a single partition request: 1
+
+# Jobs (500 - 1000) with First Fit
+
+average fragmentation: 27.1212%
+average hole size: 277.444
+average holes examined to satisfy partition: 3.995
+highest fragmentation: 51.1719%
+lowest fragmentation: 1.66016%
+average number of jobs: 1.002
+highest number of jobs: 2
+lowest number of jobs: 1
+average job size: 745.811
+average number of holes: 1.001
+highest holes recorded: 1
+lowest holes recorded: 1
+largest number of partitions created in a row without evictions: 2
+largest number of evictions to satisf a single partition request: 2
+
